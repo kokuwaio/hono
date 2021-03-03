@@ -31,8 +31,10 @@
     <module>adapter</module>
     <module>adapter-amqp</module>
     <module>adapter-kafka</module>
+    <module>adapter-rabbitmq</module>
     <module>amqp-common</module>
     <module>kafka-common</module>
+    <module>rabbitmq-common</module>
     <module>application</module>
     <module>application-kafka</module>
     <module>application-amqp</module>
